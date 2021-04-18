@@ -1,3 +1,18 @@
+/* Copyright (C) 2021 Phinite Lab. All rights reserved.
+
+ Contact information
+ ------------------------------------------------------
+ Developers: 
+ Mehmet İşcan    : mehmetmkt@gmail.com
+ Ali Burak Özden : ozdenaliburak@gmail.com 
+
+ Company: 
+ Phinite Engineering, Istanbul
+ Web      :  http://phinitelab.com
+ e-mail   :  info@phinitelab.com
+ 
+ */
+
 #ifndef __PHI_SYSTEM_DYNAMIC__
 #define __PHI_SYSTEM_DYNAMIC__
 
